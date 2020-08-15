@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "559743396861",
+    "firebase_url": "https://wheelchairmonitor-24887.firebaseio.com",
+    "project_id": "wheelchairmonitor-24887",
+    "storage_bucket": "wheelchairmonitor-24887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559743396861:android:f672b7593e57441b46c794",
+        "android_client_info": {
+          "package_name": "com.leon.voicecontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559743396861-acfc92h74clhpkkieqif1pdnroi2svel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leon.voicecontroller",
+            "certificate_hash": "5bc1eca84a365f8ae7aee144848355df41546361"
+          }
+        },
+        {
+          "client_id": "559743396861-a2tu3oioa9hidi6d149q7r328tngus15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbOHOLHGttfAoIK1sKnI56BR7Od6xsw_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559743396861-a2tu3oioa9hidi6d149q7r328tngus15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559743396861:android:72b686f84abb2eb646c794",
+        "android_client_info": {
+          "package_name": "com.leon.wheelchairmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559743396861-rm1ngec5bstae23n9d3fi10jd9l9mq65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leon.wheelchairmonitor",
+            "certificate_hash": "5bc1eca84a365f8ae7aee144848355df41546361"
+          }
+        },
+        {
+          "client_id": "559743396861-a2tu3oioa9hidi6d149q7r328tngus15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbOHOLHGttfAoIK1sKnI56BR7Od6xsw_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559743396861-a2tu3oioa9hidi6d149q7r328tngus15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559743396861:android:3c99272f53b7fb4046c794",
+        "android_client_info": {
+          "package_name": "com.leon.wheelchairvoicecontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559743396861-rbptd3utc3a7jlc0t34ti1prncamd07c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leon.wheelchairvoicecontroller",
+            "certificate_hash": "5bc1eca84a365f8ae7aee144848355df41546361"
+          }
+        },
+        {
+          "client_id": "559743396861-a2tu3oioa9hidi6d149q7r328tngus15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbOHOLHGttfAoIK1sKnI56BR7Od6xsw_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559743396861-a2tu3oioa9hidi6d149q7r328tngus15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

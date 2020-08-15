@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WheelChairVoiceController</string>
+    <string name="firebase_database">isInDangerous</string>
+    <string name="help">AJUDA</string>
+    <string name="resolve">RESOLVER</string>
+    <string name="device_does_not_surpot_voice_recognition">Dispositivo não suporta reconhecimento de voz</string>
+    <string name="error_initialize_bluetooth">Erro ao inicializar Bluetooth</string>
+    <string name="connect">Conectar</string>
+    <string name="connected">Conectado</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="stop">PARAR</string>
+    <string name="error_sending_message">Erro ao enviar mensagem</string>
+    <string name="no_device_connected">Nenhum dispositivo conectado</string>
+    <string name="impossible_connect">Não foi possível conectar</string>
+    <string name="error_getting_device_address">Erro ao obter endereço do dispositivo</string>
+    <string name="error">Erro</string>
+    <string name="bt_activated">Bluetooth ativado</string>
+    <string name="bt_not_activated">Bluetooth não Ativado</string>
+</resources>
